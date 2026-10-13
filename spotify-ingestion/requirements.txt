@@ -1,0 +1,7 @@
+pandas>=2.0
+pyarrow>=14.0
+requests>=2.31
+spotipy>=2.24
+python-dotenv>=1.0
+tzdata>=2024.1      # needed for timezones on Windows
+pytest>=8.0         # only for running tests

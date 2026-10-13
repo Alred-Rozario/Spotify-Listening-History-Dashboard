@@ -1,0 +1,10 @@
+# NEVER commit the raw Spotify export: it contains address, payment and device identifiers.
+data/raw/*
+!data/raw/.gitkeep
+*.zip
+Spotify Account Data/
+.env
+.cache*
+.venv/
+__pycache__/
+*.pyc
