@@ -1,0 +1,27 @@
+{
+  "rows_read": 8802,
+  "dropped_missing_key_fields": 0,
+  "dropped_exact_duplicates": 0,
+  "rows_clean": 8802,
+  "zero_ms_plays": 95,
+  "skips_under_30s": 2325,
+  "unique_tracks": 1366,
+  "unique_artists": 430,
+  "first_play_local": "2026-02-07 17:43:00",
+  "last_play_local": "2026-09-26 16:05:00",
+  "timezone": "Asia/Kolkata",
+  "history_files": [
+    "StreamingHistory_music_0.json"
+  ],
+  "quality_checks": {
+    "play_id_unique": true,
+    "no_nulls_in_key_columns": true,
+    "ms_played_non_negative": true,
+    "hour_in_range": true,
+    "audio_features_in_range": true
+  },
+  "tracks_with_spotify_id": 1346,
+  "tracks_with_audio_features": 978,
+  "plays_with_audio_features_pct": 68.7,
+  "plays_with_genres_pct": 0.0
+}
